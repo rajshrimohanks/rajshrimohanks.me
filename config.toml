@@ -1,4 +1,4 @@
-baseurl             = "http://rajshrimohanks.in/" # Must end with /
+baseurl             = "https://rajshrimohanks.in/" # Must end with /
 languageCode        = "en-us"
 title               = "Rajshri Mohan K S"
 theme               = "introduction"
