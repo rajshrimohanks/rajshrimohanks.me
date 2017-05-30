@@ -9,7 +9,7 @@ contentdir          = "content"
 layoutdir           = "layouts"
 publishdir          = "public"
 disqusshortname     = "rajshrimohanks" # Enable Disqus for comments
-# googleAnalytics   = "xxx"
+googleAnalytics     = "UA-100193328-1"
 metaDataFormat      = "yaml"
 enableEmoji         = true # https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
