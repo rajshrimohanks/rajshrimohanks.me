@@ -12,6 +12,9 @@ disqusshortname     = "rajshrimohanks" # Enable Disqus for comments
 # googleAnalytics   = "xxx"
 metaDataFormat      = "yaml"
 enableEmoji         = true # https://www.webpagefx.com/tools/emoji-cheat-sheet/
+PygmentsCodeFences  = true # Set Pygments to automatically detect code fences
+pygmentsuseclasses  = false # Set Pygments to use a dedicated css for styles.
+pygmentsstyle       = "manni" # Set syntax highlighting style. List of styles here: https://help.farbox.com/pygments.html
 
 [permalinks]
 fixed = ":title/"
