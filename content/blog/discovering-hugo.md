@@ -1,5 +1,5 @@
 ---
-date: '2017-05-29T02:28:22+05:30'
+date: 2017-05-28T20:58:22.000Z
 title: Setting up a slick new blog - 1 - Discovering Hugo
 draft: false
 ---
