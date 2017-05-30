@@ -22,4 +22,4 @@ Go's compiled nature means the builds are freakin' fast - Big plus for Hugo. It 
 
 --------------------------------------------------------------------------------
 
-_It's been pretty late for me now. I would continue this tomorrow. Watch this space!_
+_Next part [here]({{< relref "setting-up-hugo.md" >}})!_
