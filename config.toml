@@ -84,3 +84,7 @@ icon = "medium"
 [[params.social]]
 url = "https://www.instagram.com/rajshrimohanks/"
 icon = "instagram"
+
+[[params.social]]
+url = "https://twitter.com/rajshrimohanks"
+icon = "twitter"
