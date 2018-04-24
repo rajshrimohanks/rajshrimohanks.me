@@ -1,3 +1,5 @@
 baseURL = "https://rajshrimohanks.in/"
 languageCode = "en-us"
 title = "Rajshri Mohan K S"
+enableEmoji = true
+theme = "confliction"
