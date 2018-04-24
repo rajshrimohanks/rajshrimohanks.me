@@ -1,0 +1,3 @@
+[submodule "themes/confliction"]
+	path = themes/confliction
+	url = git@github.com:rajshrimohanks/confliction.git
