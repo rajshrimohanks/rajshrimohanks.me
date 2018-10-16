@@ -1,5 +1,56 @@
-baseURL = "https://rajshrimohanks.in/"
-languageCode = "en-us"
+baseURL = "http://rajshrimohanks.in/"
 title = "Rajshri Mohan K S"
-enableEmoji = true
-theme = "confliction"
+theme = "coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "rajshrimohanks"
+
+[params]
+    author = "Rajshri Mohan K S"
+    info = "Programmer. Technology Architect."
+    description = "Rajshri's personal website"
+    keywords = "blog,developer,personal"
+    avatarurl = "img/me.jpg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "I made this site so I could write stuff."
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/rajshrimohanks"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 2
+    url = "https://twitter.com/rajshrimohanks"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
