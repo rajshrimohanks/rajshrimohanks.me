@@ -1,3 +1,6 @@
-[submodule "themes/introduction"]
-	path = themes/introduction
-	url = https://github.com/vickylaiio/hugo-theme-introduction.git
+[submodule "themes/confliction"]
+	path = themes/confliction
+	url = git@github.com:rajshrimohanks/confliction.git
+[submodule "themes/coder"]
+	path = themes/coder
+	url = git@github.com:luizdepra/hugo-coder.git

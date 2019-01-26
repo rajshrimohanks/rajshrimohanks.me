@@ -1,90 +1,56 @@
-baseurl             = "https://rajshrimohanks.in/" # Must end with /
-languageCode        = "en-us"
-title               = "Rajshri Mohan K S"
-theme               = "introduction"
-enforce_ssl         = "rajshrimohanks.in"
-builddrafts         = false
-canonifyurls        = true
-contentdir          = "content"
-layoutdir           = "layouts"
-publishdir          = "public"
-disqusshortname     = "rajshrimohanks" # Enable Disqus for comments
-googleAnalytics     = "UA-100193328-1"
-metaDataFormat      = "yaml"
-enableEmoji         = true # https://www.webpagefx.com/tools/emoji-cheat-sheet/
+baseURL = "http://rajshrimohanks.me/"
+title = "Rajshri Mohan K S"
+theme = "coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
 
-[permalinks]
-fixed = ":title/"
-blog  = "blog/:slug/"
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "rajshrimohanks"
 
 [params]
-author        = "Rajshri Mohan K S" # Full name shows on blog post pages
-firstname     = "Rajshri Mohan" # First name shows in introduction on main page
-tagline       = "Programmer. Dreamer. And everything in between. Doing epic shit." # Appears after the introduction
-introheight   = "large" # Input either 'medium' or 'large' or 'fullheight'
-theme         = "light" # Choose 'light' or 'dark'
-avatar        = "images/profile.jpg" # Path to image in static folder eg. img/avatar.png
-email         = "rajshrimohanks@gmail.com" # Shows in contact section, or leave blank to omit
-localtime     = true # Show your current local time in contact section
-timezone      = "Asia/Kolkata" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-dateform      = "Jan 2, 2006"
-dateformfull  = "Mon Jan 2 2006 15:04:05 EST"
-cachebuster   = true # Add the current unix timestamp in query string for cache busting css assets
-description   = "Programmer. Dreamer. And everything in between. Doing epic shit."
-faviconfile   = "images/favicon.ico"
-highlightjs   = true # Syntax highlighting
-lang          = "en"
-footertext    = "" # Text to show in footer (overrides default text)
-fadein        = true # Turn on/off the fade-in effect
+    author = "Rajshri Mohan K S"
+    info = "Programmer. Technology Architect."
+    description = "Rajshri's personal website"
+    keywords = "blog,developer,personal"
+    avatarurl = "img/me.jpg"
 
-showblog        = true # Show Blog section on home page
-showallposts    = true # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
-showlatest      = true # Show latest blog post summary
-sharebuttons    = true # On post pages, show share this social buttons
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
 
-showprojects    = false # Show Projects section on home page
+    footercontent = "I made this site so I could write stuff."
 
-# This is your projects section. Three images of the same dimensions will look the nicest. If images are omitted, text links will be shown.
-project1link    = "#"
-project1img     = "img/project1.jpg"
-project1title   = "Project 1"
+    hidecredits = false
+    hidecopyright = false
 
-project2link    = "#"
-project2img     = "img/project2.jpg"
-project2title   = "Project 2"
+    rtl = false
 
-project3link    = "#"
-project3img     = "img/project3.jpg"
-project3title   = "Project 3"
+    math = true
+    custom_css = ["css/custom.css"]
 
-
-# Social icons appear in introduction and contact section. Add as many more as you like.
-# Find icon names here: http://fontawesome.io/cheatsheet/
-
+# Social links
 [[params.social]]
-url = "https://facebook.com/rajshrimohanks"
-icon = "facebook"
-
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/rajshrimohanks"
 [[params.social]]
-url = "https://www.linkedin.com/in/rajshrimohanks/"
-icon = "linkedin"
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 2
+    url = "https://twitter.com/rajshrimohanks"
 
-[[params.social]]
-url = "https://github.com/rajshrimohanks"
-icon = "github"
-
-[[params.social]]
-url = "https://stackoverflow.com/users/4050218/rajshri-mohan-k-s"
-icon = "stack-overflow"
-
-[[params.social]]
-url = "https://medium.com/@rajshrimohanks"
-icon = "medium"
-
-[[params.social]]
-url = "https://www.instagram.com/rajshrimohanks/"
-icon = "instagram"
-
-[[params.social]]
-url = "https://twitter.com/rajshrimohanks"
-icon = "twitter"
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
