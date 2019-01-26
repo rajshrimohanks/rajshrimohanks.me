@@ -1,0 +1,9 @@
+version: "3.6"
+
+services:
+  site:
+    build:
+      context: .
+    ports:
+      - "80:80"
+    restart: always
