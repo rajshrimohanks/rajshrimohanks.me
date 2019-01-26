@@ -1,10 +1,10 @@
 ---
 title: "Hello World"
-date: 2018-04-24T07:44:24+05:30
-draft: true
-description: ""
-tags: []
+date: 2019-01-26T20:27:40+05:30
+draft: false
+description: "Just a starter post."
+tags: ["hello"]
 categories: []
 ---
 
-Hi, I'm a new post. Edit me to add content.
+Hi, I'm a new post. I was added here for no reason.
