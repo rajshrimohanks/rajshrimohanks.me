@@ -1,0 +1,3 @@
+before_install:
+  - wget -i .hugourl -O hugo.deb
+  - sudo dpkg -i hugo.deb
