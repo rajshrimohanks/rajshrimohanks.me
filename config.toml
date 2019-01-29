@@ -16,16 +16,18 @@ disqusShortname = "rajshrimohanks"
 [params]
     author = "Rajshri Mohan K S"
     info = "Programmer. Technology Architect."
-    description = "Rajshri's personal website"
+    description = "Programmer. Technology Architect."
     keywords = "blog,developer,personal"
     avatarurl = "img/me.jpg"
+
+    dateformat = "January 2, 2006"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
     footercontent = "I made this site so I could write stuff."
 
-    hidecredits = false
+    hidecredits = true
     hidecopyright = false
 
     rtl = false
@@ -54,6 +56,11 @@ disqusShortname = "rajshrimohanks"
     icon = "fab fa-facebook fa-2x"
     weight = 4
     url = "https://www.facebook.com/rajshrimohanks"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 5
+    url = "https://www.linkedin.com/in/rajshrimohanks/"
 
 # Menu links
 [[menu.main]]
