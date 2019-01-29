@@ -27,38 +27,38 @@ disqusShortname = "rajshrimohanks"
 
     footercontent = "I made this site so I could write stuff."
 
-    hidecredits = true
+    hidecredits = false
     hidecopyright = false
 
     rtl = false
 
-    math = true
+    math = false
     custom_css = ["css/custom.css"]
 
 # Social links
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github fa-2x"
+    icon = "fab fa-github"
     weight = 1
     url = "https://github.com/rajshrimohanks"
 [[params.social]]
     name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
+    icon = "fab fa-twitter"
     weight = 2
     url = "https://twitter.com/rajshrimohanks"
 [[params.social]]
     name = "StackOverflow"
-    icon = "fab fa-stack-overflow fa-2x"
+    icon = "fab fa-stack-overflow"
     weight = 3
     url = "https://stackoverflow.com/users/4050218/rajshri-mohan-k-s"
 [[params.social]]
     name = "Facebook"
-    icon = "fab fa-facebook fa-2x"
+    icon = "fab fa-facebook"
     weight = 4
     url = "https://www.facebook.com/rajshrimohanks"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin fa-2x"
+    icon = "fab fa-linkedin"
     weight = 5
     url = "https://www.linkedin.com/in/rajshrimohanks/"
 
