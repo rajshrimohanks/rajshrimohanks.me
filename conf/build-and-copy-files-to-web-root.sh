@@ -2,7 +2,7 @@
 
 # Build files
 set -e
-hugo
+sudo -u rajshrimohanks hugo -v
 
 # Copy files to webroot
 set -e
