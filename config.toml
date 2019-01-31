@@ -12,6 +12,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "rajshrimohanks"
+googleAnalytics = "UA-100193328-1"
 
 [params]
     author = "Rajshri Mohan K S"
