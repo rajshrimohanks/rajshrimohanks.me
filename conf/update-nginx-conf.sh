@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 
 cp -v ./conf/nginx/rajshrimohanks.me.nginx.conf /etc/nginx/sites-available/
 cp -v ./conf/nginx/dns.conf                     /etc/nginx/snippets/
