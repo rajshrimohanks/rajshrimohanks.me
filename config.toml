@@ -46,7 +46,7 @@ googleAnalytics = "UA-100193328-1"
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 2
-    url = "https://twitter.com/rajshrimohanks"
+    url = "https://twitter.com/Ma5terVain"
 [[params.social]]
     name = "StackOverflow"
     icon = "fab fa-stack-overflow"
@@ -57,11 +57,6 @@ googleAnalytics = "UA-100193328-1"
     icon = "fab fa-facebook"
     weight = 4
     url = "https://www.facebook.com/rajshrimohanks"
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    weight = 5
-    url = "https://www.linkedin.com/in/rajshrimohanks/"
 
 # Menu links
 [[menu.main]]
