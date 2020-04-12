@@ -40,6 +40,9 @@ jobs:
           service_account_email: ${{ secrets.GCP_SA_EMAIL }}
           service_account_key: ${{ secrets.GCP_SA_KEY }}
           project_id: ${{ secrets.PROJECT_ID }}
+
+      - name: Test
+        run: cat client-secret.json
       
       - name: Publish app to Google App Engine
         run: |
