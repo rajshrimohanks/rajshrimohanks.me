@@ -1,0 +1,11 @@
+.gcloudignore
+.git/
+.gitignore
+.gitmodules
+README.md
+conf/
+config.toml
+content/
+resources/
+static/
+themes/

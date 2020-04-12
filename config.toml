@@ -1,6 +1,8 @@
 baseURL = "https://rajshrimohanks.me/"
 title = "Rajshri Mohan K S"
+
 theme = "coder"
+
 languagecode = "en"
 defaultcontentlanguage = "en"
 
@@ -12,26 +14,28 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "rajshrimohanks"
+
 googleAnalytics = "UA-100193328-1"
 
 [params]
     author = "Rajshri Mohan K S"
-    info = "Programmer. Technology Architect."
     description = "Programmer. Technology Architect."
     keywords = "blog,developer,personal"
+    info = "Programmer. Technology Architect."
     avatarurl = "img/me.jpg"
+    footercontent = "I made this site so I could write stuff."
 
     dateformat = "January 2, 2006"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "I made this site so I could write stuff."
-
     hidecredits = false
     hidecopyright = false
 
     rtl = false
+
+    maxSeeAlsoItems = 5
 
     math = false
     custom_css = ["css/custom.css"]
@@ -57,6 +61,11 @@ googleAnalytics = "UA-100193328-1"
     icon = "fab fa-facebook"
     weight = 4
     url = "https://www.facebook.com/rajshrimohanks"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 5
+    url = "https://www.linkedin.com/in/rajshrimohanks/"
 
 # Menu links
 [[menu.main]]
