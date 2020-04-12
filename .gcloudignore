@@ -2,6 +2,8 @@
 .git/
 .gitignore
 .gitmodules
+app.yaml
+dispatch.yaml
 README.md
 conf/
 config.toml
