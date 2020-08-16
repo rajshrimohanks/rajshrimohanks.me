@@ -1,10 +1,8 @@
-name: Build and Publish
+name: CI Build
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
-  push:
-    branches: [master]
   pull_request:
     branches: [master]
 
@@ -27,17 +25,3 @@ jobs:
 
       - name: Build
         run: hugo --minify
-
-      - name: Setup and configure gcloud CLI
-        uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
-        with:
-          version: "290.0.1"
-          project_id: ${{ secrets.PROJECT_ID }}
-          service_account_key: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS}}
-          export_default_credentials: true
-
-      # Deploy App to App Engine
-      - name: Deploy
-        uses: GoogleCloudPlatform/github-actions/appengine-deploy@master
-        with:
-          project_id: ${{ secrets.project_id }}
