@@ -38,4 +38,4 @@ jobs:
       - name: Deploy
         uses: GoogleCloudPlatform/github-actions/appengine-deploy@master
         with:
-          project_id: ${{ secrets.project_id }}
+          project_id: ${{ secrets.PROJECT_ID }}
