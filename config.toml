@@ -37,7 +37,7 @@ since = 2019
 
 rtl = false
 
-colorscheme = "auto"
+colorscheme = "light"
 maxSeeAlsoItems = 5
 
 custom_css = ["css/custom.css"]
