@@ -3,76 +3,91 @@ title = "Rajshri Mohan K S"
 
 theme = "coder"
 
-languagecode = "en"
 defaultcontentlanguage = "en"
+languagecode = "en"
 
-paginate = 20
 canonifyurls = true
+paginate = 20
 
-pygmentsstyle = "bw" # https://xyproto.github.io/splash/docs/all.html
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+pygmentscodefences = true 
+pygmentscodefencesguesssyntax = true 
+pygmentsstyle = "api" # https://xyproto.github.io/splash/docs/all.html
 
 disqusShortname = "rajshrimohanks"
 
 googleAnalytics = "UA-100193328-1"
 
 [params]
-    author = "Rajshri Mohan K S"
-    description = "Programmer. Technology Architect."
-    keywords = "blog,developer,personal"
-    info = "Programmer. Technology Architect."
-    avatarurl = "img/me.jpg"
-    footercontent = "I made this site so I could write stuff."
+author = "Rajshri Mohan K S"
+avatarurl = "img/me.jpg"
+# gravatar = "rajshrimohanks@gmail.com"
+description = "Programmer. Technology Architect."
+footercontent = "I made this site so I could write stuff."
+info = "Programmer. DevOps & Technology Architect."
+keywords = "blog,developer,personal"
 
-    dateformat = "January 2, 2006"
+dateformat = "January 2, 2006"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+favicon_16 = "/img/favicon-16x16.png"
+favicon_32 = "/img/favicon-32x32.png"
 
-    hidecredits = false
-    hidecopyright = false
+hidecopyright = false
+hidecredits = false
+since = 2019
 
-    rtl = false
+rtl = false
 
-    maxSeeAlsoItems = 5
+colorscheme = "auto"
+maxSeeAlsoItems = 5
 
-    math = false
-    custom_css = ["css/custom.css"]
+custom_css = ["css/custom.css"]
+math = false
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
 
 # Social links
 [[params.social]]
-    name = "Github"
-    icon = "fab fa-github"
-    weight = 1
-    url = "https://github.com/rajshrimohanks"
+icon = "fab fa-github"
+name = "Github"
+url = "https://github.com/rajshrimohanks"
+weight = 1
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 2
-    url = "https://twitter.com/Ma5terVain"
+icon = "fab fa-twitter"
+name = "Twitter"
+url = "https://twitter.com/Ma5terVain"
+weight = 2
 [[params.social]]
-    name = "StackOverflow"
-    icon = "fab fa-stack-overflow"
-    weight = 3
-    url = "https://stackoverflow.com/users/4050218/rajshri-mohan-k-s"
+icon = "fab fa-stack-overflow"
+name = "StackOverflow"
+url = "https://stackoverflow.com/users/4050218/rajshri-mohan-k-s"
+weight = 3
 [[params.social]]
-    name = "Facebook"
-    icon = "fab fa-facebook"
-    weight = 4
-    url = "https://www.facebook.com/rajshrimohanks"
+icon = "fab fa-facebook"
+name = "Facebook"
+url = "https://www.facebook.com/rajshrimohanks"
+weight = 4
 [[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    weight = 5
-    url = "https://www.linkedin.com/in/rajshrimohanks/"
+icon = "fab fa-linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/rajshrimohanks/"
+weight = 5
+[[params.social]]
+icon = "fas fa-rss"
+name = "RSS"
+rel = "alternate"
+type = "application/rss+xml"
+url = "https://rajshrimohanks.me/index.xml"
+weight = 6
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/posts/"
+name = "Blog"
+url = "/posts/"
+weight = 1
 [[menu.main]]
-    name = "About"
-    weight = 2
-    url = "/about/"
+name = "About"
+url = "/about/"
+weight = 2
