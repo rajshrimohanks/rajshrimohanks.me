@@ -23,7 +23,7 @@ avatarurl = "img/me.jpg"
 # gravatar = "rajshrimohanks@gmail.com"
 description = "Programmer. Technology Architect."
 footercontent = "I made this site so I could write stuff."
-info = "Programmer. DevOps & Technology Architect."
+info = "DevOps & Technology Architect. @IQZ Systems"
 keywords = "blog,developer,personal"
 
 dateformat = "January 2, 2006"
@@ -37,8 +37,9 @@ since = 2019
 
 rtl = false
 
-colorscheme = "light"
+colorscheme = "auto"
 maxSeeAlsoItems = 5
+enableTwemoji = true
 
 custom_css = ["css/custom.css"]
 math = false
