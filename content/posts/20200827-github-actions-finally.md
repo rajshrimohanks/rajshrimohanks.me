@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2020-08-27T22:53:12+05:30
 title = "Github Actions, finally! 😊"
 description = "It's a relief."
