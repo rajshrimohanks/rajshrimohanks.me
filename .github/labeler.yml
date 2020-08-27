@@ -1,5 +1,0 @@
-repo:
-  - ./*
-
-new_post:
-  - content/posts/**/*

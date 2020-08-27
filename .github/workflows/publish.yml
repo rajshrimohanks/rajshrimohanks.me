@@ -26,16 +26,8 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Setup and configure gcloud CLI
-        uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
-        with:
-          version: "290.0.1"
-          project_id: ${{ secrets.PROJECT_ID }}
-          service_account_key: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS}}
-          export_default_credentials: true
-
       # Deploy App to App Engine
       - name: Deploy
         uses: GoogleCloudPlatform/github-actions/appengine-deploy@master
         with:
-          project_id: ${{ secrets.project_id }}
+          credentials: ${{ secrets.GCP_SA_KEY }}
