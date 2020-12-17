@@ -4,8 +4,8 @@ date = 2020-12-09T14:44:52+05:30
 title = "TIL: BuildKit is a thing"
 description = "BuildKit is a thing and it's awesome."
 slug = ""
-tags = ["til"]
-categories = ["linux","docker","devops"]
+tags = ["linux","docker"]
+categories = ["til","devops"]
 externalLink = ""
 +++
 

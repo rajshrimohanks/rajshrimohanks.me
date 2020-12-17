@@ -4,8 +4,8 @@ date = 2020-08-15T22:31:49+05:30
 title = "Event delivery services in Azure"
 description = "A comparison of event delivery services in Azure based on a personal experience."
 slug = "" 
-tags = ["devops","cloud","messaging"]
-categories = ["cloud","devops","azure"]
+tags = ["cloud","messaging","azure"]
+categories = ["devops"]
 externalLink = ""
 series = []
 +++

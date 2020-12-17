@@ -4,8 +4,8 @@ date: 2019-02-01T02:05:09+05:30
 title: "TIL: Networking between docker-compose clusters"
 description: "Today I figured out that one can network between multiple docker-compose clusters."
 slug: ""
-tags: ["til","docker-compose"]
-categories: ["devops"]
+tags: ["docker-compose"]
+categories: ["devops","til"]
 externalLink: ""
 ---
 

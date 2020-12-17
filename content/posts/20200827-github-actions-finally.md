@@ -4,8 +4,8 @@ date = 2020-08-27T22:53:12+05:30
 title = "Github Actions, finally! 😊"
 description = "It's a relief."
 slug = "" 
-tags = ["github","cd"]
-categories = ["personal","github"]
+tags = ["github"]
+categories = ["devops","personal","ci-cd"]
 externalLink = ""
 series = []
 +++

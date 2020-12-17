@@ -4,8 +4,8 @@ date: 2019-01-30T20:19:12+05:30
 title: "TIL: The dig command"
 description: "Just me figuring out that the Domain Information Groper exists."
 slug: ""
-tags: ["commands","til"]
-categories: ["linux"]
+tags: ["commands","linux"]
+categories: ["til"]
 externalLink: ""
 ---
 

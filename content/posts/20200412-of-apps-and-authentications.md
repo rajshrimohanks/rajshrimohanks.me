@@ -5,7 +5,7 @@ title = "Of apps and authentications"
 description = "Thoughts on choosing an IAM provider for web applications."
 slug = "" 
 tags = ["iam","authentication"]
-categories = ["iam","devops"]
+categories = ["devops"]
 externalLink = ""
 series = []
 +++
