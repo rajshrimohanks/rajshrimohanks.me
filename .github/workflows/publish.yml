@@ -28,6 +28,6 @@ jobs:
 
       # Deploy App to App Engine
       - name: Deploy
-        uses: GoogleCloudPlatform/github-actions/appengine-deploy@master
+        uses: google-github-actions/deploy-appengine@main
         with:
           credentials: ${{ secrets.GCP_SA_KEY }}
