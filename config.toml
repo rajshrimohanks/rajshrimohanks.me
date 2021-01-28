@@ -9,8 +9,8 @@ languagecode = "en"
 canonifyurls = true
 paginate = 20
 
-pygmentscodefences = true 
-pygmentscodefencesguesssyntax = true 
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 pygmentsstyle = "api" # https://xyproto.github.io/splash/docs/all.html
 
 disqusShortname = "rajshrimohanks"
@@ -51,32 +51,32 @@ tag = "tags"
 
 # Social links
 [[params.social]]
-icon = "fab fa-github"
+icon = "fa fa-github"
 name = "Github"
 url = "https://github.com/rajshrimohanks"
 weight = 1
 [[params.social]]
-icon = "fab fa-twitter"
+icon = "fa fa-twitter"
 name = "Twitter"
 url = "https://twitter.com/Ma5terVain"
 weight = 2
 [[params.social]]
-icon = "fab fa-stack-overflow"
+icon = "fa fa-stack-overflow"
 name = "StackOverflow"
 url = "https://stackoverflow.com/users/4050218/rajshri-mohan-k-s"
 weight = 3
 [[params.social]]
-icon = "fab fa-facebook"
+icon = "fa fa-facebook"
 name = "Facebook"
 url = "https://www.facebook.com/rajshrimohanks"
 weight = 4
 [[params.social]]
-icon = "fab fa-linkedin"
+icon = "fa fa-linkedin"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/rajshrimohanks/"
 weight = 5
 [[params.social]]
-icon = "fas fa-rss"
+icon = "fa fa-rss"
 name = "RSS"
 rel = "alternate"
 type = "application/rss+xml"
