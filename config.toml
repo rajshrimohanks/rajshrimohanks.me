@@ -13,7 +13,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsstyle = "api" # https://xyproto.github.io/splash/docs/all.html
 
-disqusShortname = "rajshrimohanks"
+# disqusShortname = "rajshrimohanks"
 
 googleAnalytics = "UA-100193328-1"
 
@@ -25,6 +25,8 @@ description = "Programmer. Technology Architect."
 footercontent = "I made this site so I could write stuff."
 info = "DevOps & Technology Architect. @IQZ Systems"
 keywords = "blog,developer,personal"
+
+commentoURL = "https://commento.rajshrimohanks.me"
 
 dateformat = "January 2, 2006"
 
