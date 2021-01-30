@@ -34,7 +34,6 @@ handlers:
     redirect_http_response_code: 301
     static_files: public/\1
     upload: public/.*
-    expiration: 5d
 
   # Serve URLs not ending with / and not containing a . (dot)
   # in the name assuming them to be directories.
