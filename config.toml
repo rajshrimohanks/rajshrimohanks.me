@@ -43,7 +43,7 @@ colorscheme = "auto"
 maxSeeAlsoItems = 5
 enableTwemoji = true
 
-custom_css = ["css/custom.css"]
+customCSS = ["css/custom.css"]
 math = false
 
 [taxonomies]
