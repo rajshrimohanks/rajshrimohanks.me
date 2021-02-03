@@ -3,3 +3,8 @@
 body {
   font-family: 'Montserrat', sans-serif;
 }
+
+.instagram-media {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}

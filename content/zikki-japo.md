@@ -11,3 +11,7 @@ Not everyone is blessed with friends who are as talented as they are kind with a
 Zikki does art and music. I think her content is super awesome. If you'd like to check out her work, she has a store over here at Etsy: [**ZikkiJapoArt**](https://www.etsy.com/in-en/shop/ZikkiJapoArt).
 
 I'll let her work speak for itself. Do check out her store and support an amazing artist. 😊
+
+**P.S.:** You can also check out [**her Instagram page**](https://www.instagram.com/zikkijapo.art/) for more art.
+
+{{< instagram CGpkv-0Bfxo >}}
