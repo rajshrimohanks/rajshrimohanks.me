@@ -13,6 +13,8 @@ I love coffee and I'm always up for a nice talk and food. Drop me a message in s
 
 Have a good day!
 
+{{< credly f65af314-f556-40b1-a1cf-b685daeefc0b >}}
+
 [iqz-systems]: https://iqzsystems.com
 
 [coimbatore]: https://goo.gl/maps/aAJFV744q4A2
