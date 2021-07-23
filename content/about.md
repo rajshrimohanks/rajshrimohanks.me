@@ -15,6 +15,8 @@ Have a good day!
 
 {{< credly f65af314-f556-40b1-a1cf-b685daeefc0b >}}
 
+{{< credly f529987d-8ab9-4271-9364-296edf07f10b >}}
+
 [iqz-systems]: https://iqzsystems.com
 
 [coimbatore]: https://goo.gl/maps/aAJFV744q4A2

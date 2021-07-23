@@ -9,7 +9,7 @@ slug = ""
 ## Hardware
 
 - **Desktop:**
-  - **CPU:** AMD Ryzen 3700X
+  - **CPU:** AMD Ryzen 7 3700X
   - **Motherboard:** MSI MPG X570 Gaming Pro Carbon WiFi
   - **Graphics Card:** Asus TUF Gaming RTX 3080 O10G
   - **RAM:** Corsair Vengeance RGB Pro CL16 4x8GB 3000MHz
@@ -24,6 +24,10 @@ slug = ""
   - **Webcam:** Logitech C920
   - **Speakers:** Sony SRS D9
   - **Drawing Tablet:** Wacom One Digital Drawing Tablet
+- **Laptop:** Asus ROG Zephyrus G14
+  - **CPU:** AMD Ryzen 9 5900HS
+  - **Graphics Card:** nVidia GeForce RTX 3060
+  - **RAM:** 2x8GB 3200MHz
 - **Phone:** Google Pixel 3a
 - **DSLR:** Nikon D5600
 
