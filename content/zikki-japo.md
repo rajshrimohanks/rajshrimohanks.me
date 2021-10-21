@@ -1,7 +1,7 @@
 +++ 
 title = "Zikki Japo Art"
 date = 2021-01-30T23:58:01+05:30
-draft = false
+draft = true
 description = "Zikki Japo Art"
 slug = ""
 +++
