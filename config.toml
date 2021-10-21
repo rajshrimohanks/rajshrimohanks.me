@@ -96,7 +96,7 @@ weight = 2
 name = "Gear"
 url = "/gear/"
 weight = 3
-[[menu.main]]
-name = "Zikki Japo Art"
-url = "/zikki-japo/"
-weight = 4
+# [[menu.main]]
+# name = "Zikki Japo Art"
+# url = "/zikki-japo/"
+# weight = 4
