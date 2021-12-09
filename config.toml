@@ -66,22 +66,17 @@ name = "StackOverflow"
 url = "https://stackoverflow.com/users/4050218/rajshri-mohan-k-s"
 weight = 3
 [[params.social]]
-icon = "fa fa-facebook"
-name = "Facebook"
-url = "https://www.facebook.com/rajshrimohanks"
-weight = 4
-[[params.social]]
 icon = "fa fa-linkedin"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/rajshrimohanks/"
-weight = 5
+weight = 4
 [[params.social]]
 icon = "fa fa-rss"
 name = "RSS"
 rel = "alternate"
 type = "application/rss+xml"
 url = "https://rajshrimohanks.me/index.xml"
-weight = 6
+weight = 5
 
 # Menu links
 [[menu.main]]
