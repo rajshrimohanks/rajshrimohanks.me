@@ -29,7 +29,7 @@ slug = ""
   - **CPU:** AMD Ryzen 9 5900HS
   - **Graphics Card:** nVidia GeForce RTX 3060
   - **RAM:** 2x8GB 3200MHz
-  - **OS:** Windows 10 Enterprise with Ubuntu 20.04 on WSL2
+  - **OS:** Windows 10 Enterprise with Ubuntu 22.04 Jammy Jellyfish on WSL2
 - **Phone:** Google Pixel 3a
 - **DSLR:** Nikon D5600
 
