@@ -9,6 +9,10 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   build-and-deploy:
+    permissions:
+      contents: "read"
+      id-token: "write"
+
     runs-on: ubuntu-latest
 
     steps:
@@ -26,8 +30,12 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      # Deploy App to App Engine
-      - name: Deploy
-        uses: google-github-actions/deploy-appengine@main
+      - id: "auth"
+        uses: "google-github-actions/auth@v1.0.0"
         with:
-          credentials: ${{ secrets.GCP_SA_KEY }}
+          workload_identity_provider: "projects/739544187904/locations/global/workloadIdentityPools/rajshrimohanks-personal-pool/providers/rajshrimohanks-personal-provider"
+          service_account: "rajshrimohanks-me-github-actio@rajshrimohanks-personal-page.iam.gserviceaccount.com"
+
+      # Deploy App to App Engine
+      - id: "deploy"
+        uses: "google-github-actions/deploy-appengine@v1"
