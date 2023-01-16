@@ -30,7 +30,7 @@ slug = ""
   - **Graphics Card:** nVidia GeForce RTX 3060
   - **RAM:** 2x8GB 3200MHz
   - **OS:** Windows 10 Enterprise with Ubuntu 22.04 Jammy Jellyfish on WSL2
-- **Phone:** Google Pixel 3a
+- **Phone:** Google Pixel 6a
 - **DSLR:** Nikon D5600
 
 ## Software

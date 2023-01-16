@@ -49,6 +49,22 @@ category = "categories"
 series = "series"
 tag = "tags"
 
+# https://giscus.app
+[params.giscus]
+  repo = "rajshrimohanks/rajshrimohanks.me"
+  repoID = "MDEwOlJlcG9zaXRvcnkyOTA4MjU1NDA="
+  category = "Announcements"
+  categoryID = "DIC_kwDOEVWlRM4CTnkJ"
+  mapping = "pathname"
+  term = ""
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  theme = "preferred_color_scheme"
+  lang = "en"
+  loading = "lazy"
+
 # Social links
 [[params.social]]
 icon = "fa fa-github"
