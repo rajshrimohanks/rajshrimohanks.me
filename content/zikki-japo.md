@@ -13,5 +13,3 @@ Zikki does art and music. I think her content is super awesome. If you'd like to
 I'll let her work speak for itself. Do check out her store and support an amazing artist. 😊
 
 **P.S.:** You can also check out [**her Instagram page**](https://www.instagram.com/zikkijapo.art/) for more art.
-
-{{< instagram CGpkv-0Bfxo >}}
