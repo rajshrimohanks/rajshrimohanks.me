@@ -32,6 +32,7 @@ slug = ""
   - **OS:** Windows 10 Enterprise with Ubuntu 22.04 Jammy Jellyfish on WSL2
 - **Phone:** Google Pixel 6a
 - **DSLR:** Nikon D5600
+- **Car:** 2022 Tata Nexon 1.5 RTQ XZ+
 
 ## Software
 
