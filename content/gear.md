@@ -31,6 +31,7 @@ slug = ""
   - **RAM:** 2x8GB 3200MHz
   - **OS:** Windows 10 Enterprise with Ubuntu 22.04 Jammy Jellyfish on WSL2
 - **Phone:** Google Pixel 6a
+- **Tablet:** Apple iPad Pro 2022 11"
 - **DSLR:** Nikon D5600
 - **Car:** 2022 Tata Nexon 1.5 RTQ XZ+
 
