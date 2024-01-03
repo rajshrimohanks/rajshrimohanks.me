@@ -7,7 +7,7 @@
     {{ now.Year }}
     {{ with .Site.Params.author }} {{ . }} {{ end }}
     ·
-    <a href="/bon-voyage/"><pre style="opacity: 20%; display: inline;">:( /</pre></a>
+    {{ partial "mood.html" . }}
     ·
     {{ if (and .Site.Params.license) }}
       {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
