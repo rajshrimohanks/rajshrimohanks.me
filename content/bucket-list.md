@@ -22,3 +22,4 @@ Just a bucket list of items I want to get done this year.
 - [ ] Go on a date.
 - [ ] Workout for at least 200 days of the year.
 - [ ] Sing in front of a crowd.
+- [ ] Write at least 50 articles.
