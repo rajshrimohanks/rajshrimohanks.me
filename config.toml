@@ -114,3 +114,7 @@ weight = 3
 # name = "Zikki Japo Art"
 # url = "/zikki-japo/"
 # weight = 4
+[[menu.main]]
+name = "Bucket List"
+url = "/bucket-list/"
+weight = 4
