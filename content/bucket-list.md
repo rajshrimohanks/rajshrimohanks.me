@@ -23,7 +23,7 @@ Just a bucket list of items I want to get done this year.
 - [ ] Spend an entire day at a beach.
 - [ ] Go on a date.
 - [ ] Workout for at least 200 days of the year.
-  - {{< progress 5 200 >}}
+  - {{< progress 6 200 >}}
 - [ ] Sing in front of a crowd.
 - [ ] Write at least 50 articles.
   - {{< progress 0 50 >}}
