@@ -1,0 +1,8 @@
+{{ $current := float (.Get 0) }}
+{{ $total := float (.Get 1) }}
+{{ $percent := math.Floor (mul (div $current $total) 100) }}
+{{ $totalBlocks := 50 }}
+{{ $completedBlocks := math.Floor (div (mul $percent $totalBlocks) 100) }}
+{{ $remainingBlocks := sub $totalBlocks $completedBlocks }}
+
+[{{ range $index, $num := (seq $completedBlocks) }}▓{{ end }}{{ range $index, $num := (seq $remainingBlocks) }}░{{ end }}] {{ $percent }}%
