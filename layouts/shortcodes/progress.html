@@ -1,0 +1,23 @@
+{{ $current := float (.Get 0) }}
+{{ $total := float (.Get 1) }}
+{{ $percent := math.Floor (mul (div $current $total) 100) }}
+
+{{ $totalBlocks := 20 }}
+{{ $completedBlocks := math.Floor (div (mul $percent $totalBlocks) 100) }}
+{{ $remainingBlocks := sub $totalBlocks $completedBlocks }}
+
+{{ $totalBlocksMobile := 20 }}
+{{ $completedBlocksMobile := math.Floor (div (mul $percent $totalBlocksMobile) 100) }}
+{{ $remainingBlocksMobile := sub $totalBlocksMobile $completedBlocksMobile }}
+
+<span class="progress">[{{ range $index, $num := (seq $completedBlocks) }}▓{{ end }}{{ range $index, $num := (seq
+  $remainingBlocks) }}░{{ end }}] {{ $percent }}%</span>
+<span class="mobile-progress">[{{ range $index, $num := (seq $completedBlocks) }}▓{{ end }}{{ range $index, $num := (seq
+  $remainingBlocks) }}░{{ end }}] {{ $percent }}%</span>
+
+<style>
+  /* Figure out appropriate media query to make progress bar look bigger in non mobile usecases. */
+  .mobile-progress {
+    display: none;
+  }
+</style>
