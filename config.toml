@@ -1,21 +1,23 @@
 baseURL = "https://rajshrimohanks.me/"
-title = "Rajshri Mohan K S"
-
-theme = "coder"
-
 defaultcontentlanguage = "en"
 languagecode = "en"
+theme = "coder"
+title = "Rajshri Mohan K S"
 
 canonifyurls = true
 paginate = 20
+
+# disqusShortname = "rajshrimohanks"
+
+# googleAnalytics = "UA-100193328-1"
+googleAnalytics = "G-DM23Q9EY0L"
 
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsstyle = "api" # https://xyproto.github.io/splash/docs/all.html
 
-# disqusShortname = "rajshrimohanks"
-
-googleAnalytics = "UA-100193328-1"
+[markup.highlight]
+style = "github-dark"
 
 [params]
 author = "Rajshri Mohan K S"
@@ -45,25 +47,26 @@ customCSS = ["css/custom.css"]
 math = false
 
 [taxonomies]
+author = "authors"
 category = "categories"
 series = "series"
 tag = "tags"
 
 # https://giscus.app
 [params.giscus]
-  repo = "rajshrimohanks/rajshrimohanks.me"
-  repoID = "MDEwOlJlcG9zaXRvcnkyOTA4MjU1NDA="
-  category = "Announcements"
-  categoryID = "DIC_kwDOEVWlRM4CTnkJ"
-  mapping = "pathname"
-  term = ""
-  strict = "0"
-  reactionsEnabled = "1"
-  emitMetadata = "0"
-  inputPosition = "bottom"
-  theme = "preferred_color_scheme"
-  lang = "en"
-  loading = "lazy"
+category = "Announcements"
+categoryID = "DIC_kwDOEVWlRM4CTnkJ"
+emitMetadata = "0"
+inputPosition = "bottom"
+lang = "en"
+loading = "lazy"
+mapping = "pathname"
+reactionsEnabled = "1"
+repo = "rajshrimohanks/rajshrimohanks.me"
+repoID = "MDEwOlJlcG9zaXRvcnkyOTA4MjU1NDA="
+strict = "0"
+term = ""
+theme = "preferred_color_scheme"
 
 # Social links
 [[params.social]]
@@ -111,3 +114,7 @@ weight = 3
 # name = "Zikki Japo Art"
 # url = "/zikki-japo/"
 # weight = 4
+[[menu.main]]
+name = "Bucket List"
+url = "/bucket-list-2024/"
+weight = 4

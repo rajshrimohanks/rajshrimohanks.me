@@ -24,13 +24,14 @@ slug = ""
   - **Webcam:** Logitech C920
   - **Speakers:** Sony SRS D9
   - **Drawing Tablet:** Wacom One Digital Drawing Tablet
-  - **OS:** Windows 11 Pro with Debian 11 Bullseye on WSL2
+  - **OS:** Windows 11 Pro with Debian 12 Bookworm on WSL2
 - **Laptop:** Asus ROG Zephyrus G14
   - **CPU:** AMD Ryzen 9 5900HS
   - **Graphics Card:** nVidia GeForce RTX 3060
   - **RAM:** 2x8GB 3200MHz
-  - **OS:** Windows 10 Enterprise with Ubuntu 22.04 Jammy Jellyfish on WSL2
+  - **OS:** Windows 11 Pro with Ubuntu 22.04 Jammy Jellyfish on WSL2
 - **Phone:** Google Pixel 6a
+- **Tablet:** Apple iPad Pro 2022 11"
 - **DSLR:** Nikon D5600
 - **Car:** 2022 Tata Nexon 1.5 RTQ XZ+
 
