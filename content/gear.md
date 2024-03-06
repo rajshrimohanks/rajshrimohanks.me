@@ -15,7 +15,7 @@ slug = ""
   - **RAM:** Corsair Vengeance RGB Pro CL16 4x8GB 3000MHz
   - **CPU Cooler:** Corsair H100i Platinum
   - **Case:** Lian Li PC-O11 Dynamic
-  - **PSU:** Corsair RM1000x
+  - **PSU:** Corsair HX1000i
   - **Storage:** ADATA SX8200 Pro 1TB + Intel 660p 1TB
   - **Keyboard:** Corsair K70 MkII RapidFire Low Profile
   - **Mouse:** Logitech G502 Hero / Logitech G403 Prodigy
