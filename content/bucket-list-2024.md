@@ -11,7 +11,7 @@ Just a bucket list of items I want to get done this year.
 - [ ] Learn to play at least 5 songs on the guitar.
   - {{< progress 0 5 >}}
 - [ ] Live independently for a month at least.
-  - {{< progress 14 30 >}}
+  - {{< progress 24 30 >}}
 - [ ] Fix the teeny gap in my teeth.
 - [ ] Learn to properly dance.
 - [ ] Travel abroad.
