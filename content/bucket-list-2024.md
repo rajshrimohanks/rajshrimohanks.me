@@ -13,18 +13,18 @@ Just a bucket list of items I want to get done this year.
 - [X] Live independently for a month at least.
   - {{< progress 30 30 >}}
 - [ ] Fix the teeny gap in my teeth.
-  - {{< progress 1 14 >}}
+  - {{< progress 5 14 >}}
 - [ ] Learn to properly dance.
 - [ ] Travel abroad.
 - [ ] Build an app with Rust.
 - [ ] Build an app with GoLang.
 - [ ] Get the Certified Kubernetes Security Specialist (CKS) certification.
-- [ ] Drive on the west coast road to Goa.
+- [X] Drive on the west coast road to Goa.
 - [ ] Watch Bob Moses, ZHU, or Khruangbin perform live.
-- [ ] Spend an entire day at a beach.
-- [ ] Go on a date.
+- [X] Spend an entire day at a beach.
+- [X] Go on a date.
 - [ ] Workout for at least 200 days of the year.
-  - {{< progress 41 200 >}}
+  - {{< progress 50 200 >}}
 - [ ] Sing in front of a crowd.
 - [ ] Write at least 50 articles.
   - {{< progress 0 50 >}}
