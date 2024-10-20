@@ -29,7 +29,7 @@ slug = ""
   - **CPU:** AMD Ryzen 7 7800X3D
   - **Motherboard:** Gigabyte B650I AX Mini ITX AM5
   - **Graphics Card:** Zotac GeForce RTX 4070 Ti Super Trinity OC White 16GB GDDR6X
-  - **RAM:** GSkill Trident Z5 RGB CL30 2x16GB 6000MHz
+  - **RAM:** GSkill Trident Z5 Neo RGB CL30 2x32GB 6000MHz
   - **CPU Cooler:** Corsair H100 RGB
   - **Case:** Lian Li A4 H2O x4
   - **PSU:** Asus ROG LOKI SFX-L Platinum 850W
