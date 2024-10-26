@@ -4,6 +4,7 @@ date = 2020-08-27T22:53:12+05:30
 title = "Github Actions, finally! 😊"
 description = "It's a relief."
 slug = "" 
+authors = ["Rajshri Mohan K S"]
 tags = ["github"]
 categories = ["devops","personal","ci-cd"]
 externalLink = ""
