@@ -4,6 +4,7 @@ date = 2020-04-12T17:24:20+05:30
 title = "Of apps and authentications"
 description = "Thoughts on choosing an IAM provider for web applications."
 slug = "" 
+authors = ["Rajshri Mohan K S"]
 tags = ["iam","authentication"]
 categories = ["devops"]
 externalLink = ""
