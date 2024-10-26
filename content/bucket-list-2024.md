@@ -27,7 +27,7 @@ Just a bucket list of items I want to get done this year.
   - {{< progress 50 200 >}}
 - [X] Sing in front of a crowd.
 - [ ] Write at least 50 articles.
-  - {{< progress 0 50 >}}
+  - {{< progress 2 50 >}}
 - [ ] Get a tattoo.
 - [ ] Read at least 6 books.
   - {{< progress 0 6 >}}
