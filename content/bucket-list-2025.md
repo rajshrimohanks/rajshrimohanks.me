@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2025-01-14T19:37:50+05:30
 title = "2025 Bucket List"
 description = "A bucket list of items I want to get done this year."
