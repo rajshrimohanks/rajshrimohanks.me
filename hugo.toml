@@ -125,5 +125,5 @@ weight = 3
 # weight = 4
 [[menu.main]]
 name = "Bucket List"
-url = "/bucket-list-2024/"
+url = "/bucket-list-2025/"
 weight = 4
