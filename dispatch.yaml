@@ -1,3 +1,5 @@
 dispatch:
   - url: "rajshrimohanks.me/*"
     service: default
+  - url: "pranita.me/*"
+    service: pranita-me

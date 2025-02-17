@@ -4,6 +4,7 @@ date: 2019-01-26T20:27:40+05:30
 title: "Hello World"
 description: "Just a starter post."
 slug: ""
+authors: ["Rajshri Mohan K S"]
 tags: ["hello"]
 categories: []
 externalLink: ""
