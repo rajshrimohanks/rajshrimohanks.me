@@ -21,7 +21,7 @@ Just a bucket list of items I want to get done this year. Most of these are carr
   - {{< progress 3 200 >}}
 - [ ] Write at least 50 articles.
   - {{< progress 0 50 >}}
-- [ ] Get a tattoo.
+- [X] ~~Get a tattoo.~~
 - [ ] Read at least 6 books.
   - {{< progress 0 6 >}}
 - [ ] Drive a sports car.
