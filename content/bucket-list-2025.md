@@ -18,7 +18,7 @@ Just a bucket list of items I want to get done this year. Most of these are carr
 - [ ] Get the Certified Kubernetes Security Specialist (CKS) certification.
 - [ ] Attend a fabulous concert.
 - [ ] Workout for at least 200 days of the year.
-  - {{< progress 6 200 >}}
+  - {{< progress 35 200 >}}
 - [ ] Write at least 50 articles.
   - {{< progress 0 50 >}}
 - [X] ~~Get a tattoo.~~
