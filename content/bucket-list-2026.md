@@ -18,7 +18,7 @@ Just a bucket list of items I want to get done this year. Most of these are carr
 - [ ] Get the Google Cloud Professional Cloud Architect certification.
 - [ ] Attend a fabulous concert.
 - [ ] Workout for at least 150 days of the year.
-  - {{< progress 0 200 >}}
+  - {{< progress 54 200 >}}
 - [ ] Write at least 25 articles.
   - {{< progress 0 50 >}}
 - [ ] Read at least 6 books.

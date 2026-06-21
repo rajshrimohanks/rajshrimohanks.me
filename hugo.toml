@@ -1,6 +1,6 @@
 baseURL = "https://rajshrimohanks.me/"
 defaultcontentlanguage = "en"
-languagecode = "en"
+locale = "en"
 theme = "coder"
 title = "Rajshri Mohan K S"
 
